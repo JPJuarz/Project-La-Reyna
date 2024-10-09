@@ -26,7 +26,7 @@ Se me hace interesante poder ver cómo es que sirven sistemas como los de Uber E
 11. Repetir la orden (de la lista)
 12. Decir el precio de su pedido
 
-##Importante
+## Importante
 En el link que se encuentra abajo de este parrafo está el repositorio pasado con los diferentes avances del proyecto que fueron hechos durante el desarrollo de este mismo. Se cambio de repositorio dado a que no se cumplia de la manera correcta con las instrucciones la carga de los avances siendo cada uno un diferente codigo en lugar de estar sobreescritos. Por esto mismo se continuo en este repositorio con las instrucciones en mente. 
 Gracias,
 
