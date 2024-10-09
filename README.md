@@ -1,7 +1,7 @@
 
-# Project-Challenge-1st-S
+# Project-Challenge-La-Reyna
 
-### Projecto del reto de primer semestre	
+### Proyecto del reto de primer semestre	
 
 ## Contexto:  Aplicación para tomar ordenes en línea I **La Reyna**
 
