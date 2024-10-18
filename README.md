@@ -9,7 +9,7 @@ Desde que era chico, mi familia ha tenido un negocio que ha fracasado y vuelto a
 
 Para este proyecto lo que yo quiero hacer es una aplicación o algún sistema que me ayude a contar los precios y los pedidos de lo que será el restaurante para así ir aprendiendo y con estas habilidades llegar a ayudar al negocio de mi familia. Igualmente quiero poder hacer un programa que facilite esto mismo de los precios y las órdenes para que así el tiempo en el negocio pueda ser usado más eficientemente sin tener que estarse preocupando o teniendo errores humanos.
 
-Se me hace interesante poder ver cómo es que sirven sistemas como los de Uber Eats y Rappi, aunque sea a un nivel mucho más inferior, y como es que se pueden desarrollar tipos de sistemas que ayudan verdaderamente en negocios locales como el de mi familia. Aunque hoy no estoy muy familiarizado con todo lo que podrá hacer este programa y con todo lo que podré hacer con estos aprendizajes, tengo una idea de cómo serviría o como me gustaría que sirviera como se puede ver en el algoritmo de abajo.
+Se me hace interesante poder ver cómo es que sirven sistemas como los de Uber Eats y Rappi, aunque sea a un nivel mucho más inferior, y como es que se pueden desarrollar tipos de sistemas que ayudan verdaderamente en negocios locales como el de mi familia. Aunque hoy no estoy muy familiarizado con todo lo que podrá hacer este programa y con todo lo que podré hacer con estos aprendizajes, tengo una idea de cómo serviría o como me gustaría que sirviera como se puede ver en el algoritmo de abajo. Hay probabilidad de que cambie en lo que voy desarrollando mis habilidades dentro de python pero este será la primera idea o sketch de lo que será el proyecto.
 
 ### Algoritmo 
 
@@ -31,4 +31,11 @@ En el link que se encuentra abajo de este parrafo está el repositorio pasado co
 Gracias,
 
 https://github.com/JPJuarz/Project-Challenge-1st-S
+
+### Investigación fuera de clase
+Como parte del proyecto fue importante hacer una investigación individual sobre otra función o funciones que pudieran contribuir al desarrollo de este. La función / herramienta que encontré yo la cual me ayudó grandemente en el cumplimiento de mi proyecto fue: format(). Esta función permite darle un formato a cadenas de texto lo que permite insertar valores en una cadena de manera clara, legible y especialmente controlable. Esto me fue especialmente útil a mi en cuanto a presentarle al usuario las opciones de comidas y bebidas disponibles junto con sus precios. Usar el formato "{} - ${}".format(drink / comida [0], drink / comida[1]) dentro de mi código me permitió darle un orden y una apariencia tal como la de un menú lo cuál me ayudo y me seguirá ayudando grandemente en futuros proyectos. 
+
+Esta función o herramienta la encontré en w3schools la cual es una pagina que da acceso a muchos tutoriales y herramientas de programación.
+w3schools. (2018). Python String format() Method. Recuperado de https://www.w3schools.com/python/ref_string_format.asp
+
 
